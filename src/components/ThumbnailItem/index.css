@@ -1,0 +1,15 @@
+/* Write your code here. */
+
+.thumbnail {
+  opacity: 0.5;
+}
+
+.thumbnail-active {
+  opacity: 1;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
